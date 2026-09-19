@@ -6,6 +6,10 @@ The official PepLog product website, available on phones and computers.
 - Browser app preview: https://shaozong88-beep.github.io/peplog/app.html
 - User Agreement: https://shaozong88-beep.github.io/peplog/terms.html
 - Privacy Policy: https://shaozong88-beep.github.io/peplog/privacy.html
+- English App User Agreement: https://shaozong88-beep.github.io/peplog/terms-en.html
+- English App Privacy Policy: https://shaozong88-beep.github.io/peplog/privacy-en.html
+
+The English App documents use the same version and wording as the in-app English agreements. These dedicated URLs always show English, without reading a website language preference. Both offer a plain-text download. Operator and privacy contact details remain pending, exactly as disclosed in the app.
 
 The website includes English and Chinese, current app screenshots with illustrative records, product features, membership information and FAQs. The iOS app is in development; there is no App Store download or payment on this website. Legal operator and contact details are still pending in the clearly labelled preview documents.
 
